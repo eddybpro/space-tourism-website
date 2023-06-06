@@ -184,7 +184,7 @@ picture > *{
     }
 
     nav{
-        margin-bottom: 15rem;
+        margin-bottom: 10rem;
     }
 
     .nav-links{
@@ -233,6 +233,10 @@ picture > *{
 
     .planet-name{
         text-align: center;
+    }
+
+    picture > *{
+        max-width: 50rem;
     }
 }
 
